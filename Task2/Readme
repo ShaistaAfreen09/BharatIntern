@@ -1,0 +1,24 @@
+# Project Management Tool
+
+Welcome to the Project Management Tool repository! This tool is designed to simplify project management by providing an intuitive interface for tracking tasks, assigning IDs, and managing deadlines.
+
+## Key Features
+
+- Project Overview: Streamlined presentation of project details for enhanced clarity.
+- Task Tracking: Effortlessly monitor project tasks with assigned task IDs.
+- Task Assignment: Seamlessly assign tasks, complete with task IDs for clear identification.
+- Project Naming: Personalize your projects by giving them unique and meaningful names.
+- Mark as Completed: Easily track task progress by marking them as completed when done.
+- Deadline Management: Stay organized with an intuitive interface to set and manage project deadlines.
+
+## Technologies Used
+
+- HTML: Crafted the structural foundation of the tool.
+- CSS: Designed a visually appealing and user-friendly interface.
+- JavaScript: Added dynamic elements for enhanced functionality.
+
+## How to Use
+
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/ShaistaAfreen09/BharatIntern/tree/main/Task2
