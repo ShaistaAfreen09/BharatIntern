@@ -1,0 +1,24 @@
+# Content Management Tool
+
+##Overview
+
+Welcome to the Content Management Tool! This tool is designed to simplify the management of digital content through an intuitive user interface. It's developed using HTML, CSS, and JavaScript.
+
+## Features
+
+- User-Friendly Interface: A sleek and intuitive design for seamless user interaction.
+- Content Addition: Easily add new content elements to your management system.
+- Content Editing: Update and modify existing content with a few clicks.
+- Content Removal: Effortlessly remove content that is no longer needed.
+
+## Technologies Used
+
+- HTML:Providing the structural foundation for the tool.
+- CSS: Styling the tool for an enhanced user experience.
+- JavaScript: Adding dynamic functionality for a more interactive tool.
+
+## How to Use
+
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/ShaistaAfreen09/BharatIntern/tree/main/Task1
